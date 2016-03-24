@@ -1,9 +1,14 @@
 {
-  "name": "i-lateral/silverstripe-flexslider",
+    "name": "i-lateral/silverstripe-flexslider",
     "description": "jQuery Flexslider based module for Silverstripe",
     "type": "silverstripe-module",
     "homepage": "http://github.com/i-lateral/silverstripe-flexslider",
-    "keywords": ["silverstripe", "carousel", "gallery", "flexslider"],
+    "keywords": [
+        "silverstripe",
+        "carousel",
+        "gallery",
+        "flexslider"
+    ],
     "license": "BSD-3-Clause",
     "authors": [
         {
